@@ -1,4 +1,4 @@
-module "secret-dimension-uploader"
+module "github.com/KercyLAN/secret-dimension-uploader"
 
 go 1.14
 
